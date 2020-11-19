@@ -1,5 +1,5 @@
 {
-  "name": "Dummy: Video downloader for Mac",
+  "name": "Yummy: Video downloader for Mac",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -38,7 +38,7 @@
       "density": "4.0"
     }
   ],
-  "short_name": "Dummy",
+  "short_name": "Yummy",
   "description": "Download videos and music, from YouTube, DailyMotion, Vimeo, Veoh, Twitch, Facebook and hundreds of websites",
   "start_url": "/",
   "display": "standalone"
