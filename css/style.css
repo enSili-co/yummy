@@ -502,9 +502,12 @@ header {
 /* EXTRAS */
 h4.howtolist {
   font-size: 28px;
-  font-weight: 300;
+  font-weight: 400;
   color: #633991;
   margin-bottom: 0.7rem; }
+
+.howtodescription {
+  color: #555; }
 
 /**
  * Owl Carousel v2.2.1
