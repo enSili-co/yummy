@@ -2,12 +2,10 @@
   <img height="150px" src="https://github.com/enSili-co/yummy/raw/main/images/logo.png"/>
 </p>
 <h3 align=center>Yummy for Mac</h3>
-<p align=center>
-  Download videos, music, or both from <u>any website</u><br>and instantly export to the format you want.<br><br>On your Mac. Just like that.
-</p>
-
 
 ---
+
+Download videos, music, or both from <u>any website</u><br>and instantly export to the format you want.<br><br>On your Mac. Just like that.
 
 # Download for free (3-day trial)
 
