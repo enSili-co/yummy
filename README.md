@@ -7,6 +7,15 @@
 
 Download videos, music, or both from any website and instantly export to the format you want. On your Mac. Just like that.
 
+# Download for free (3-day trial)
+
+▶︎ https://s3.amazonaws.com/ensili.co/yummy-3.2.zip
+
+# Official Website
+
+▶︎ https://getyummy.app
+
 # Issues
 
-For issues/comments/suggestions/feedback (everything is 100% welcome!), just open an Issue here at github! :)
+For issues/comments/suggestions/feedback (everything is 100% welcome!),...    
+...just open an Issue here at github! :)
