@@ -509,6 +509,116 @@ h4.howtolist {
 .howtodescription {
   color: #444; }
 
+.navbar-brand {
+  font-size: 1.75em; }
+
+.upper {
+  font-weight: 500; }
+
+.lower {
+  font-weight: 100; }
+
+#contactbar img {
+  filter: opacity(0.3);
+  transition: all 0.3s ease;
+  margin-top: 2px; }
+
+#contactbar img:hover {
+  filter: opacity(1); }
+
+.social-icons a {
+  color: #888;
+  transition: all 0.3s ease; }
+
+.social-icons a.twitter:hover {
+  color: #1FA1F1; }
+
+.social-icons a.github:hover {
+  color: #000000; }
+
+.social-icons a.email:hover {
+  color: #F16E17; }
+
+footer {
+  font-size: 0.8rem;
+  color: #959094; }
+
+footer a {
+  color: #959094;
+  text-decoration: none; }
+
+footer.my-5 {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important; }
+
+#contactbar.py-5 {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important; }
+
+.img-gallery .owl-item {
+  box-shadow: none !important; }
+
+.middleman {
+  font-size: 30px;
+  font-weight: 100; }
+
+@media (max-width: 991px) {
+  .middleman {
+    font-size: 20px; } }
+@media (max-width: 991px) {
+  .trademarks {
+    display: none; } }
+.circle-icon {
+  font-weight: 700; }
+
+.jumbo {
+  margin-top: 4em !important; }
+
+@media (max-width: 991px) {
+  .jumbo {
+    margin-top: 2em !important; }
+
+  .copyrightable {
+    text-align: center; } }
+.card-text {
+  color: #666; }
+
+h2 {
+  font-size: 30px;
+  font-weight: 100;
+  color: #959094; }
+
+.owl-dot, .owl-dot:focus, .owl-dot:active {
+  border: 0 !important;
+  background: white !important;
+  outline: 0; }
+
+.section {
+  padding: 60px 0px !important; }
+
+.magicbutton {
+  transition: transform .1s; }
+
+.magicbutton:hover {
+  transform: scale(1.05);
+  background: #FFF; }
+
+.magicbutton:hover i {
+  color: black; }
+
+.section-title small {
+  color: #6D6D6D;
+  font-size: 90% !important; }
+
+.owl-stage-outer {
+  padding: 2em 0; }
+
+.img-gallery .owl-item.center {
+  transform: scale(1.2); }
+
+@media (max-width: 991px) {
+  .img-gallery .owl-item.center {
+    transform: scale(1); } }
 @-webkit-keyframes rotating {
   from {
     -webkit-transform: rotate(0deg);
