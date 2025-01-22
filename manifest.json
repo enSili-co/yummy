@@ -1,5 +1,5 @@
 {
-  "name": "Yummy: Video downloader for Mac",
+  "name": "Yummy: The Ultimate Video Downloader for Mac",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "Yummy",
-  "description": "Download videos and music, from YouTube, DailyMotion, Vimeo, Veoh, Twitch, Facebook and hundreds of websites",
+  "description": "Effortlessly download videos and music from YouTube, Vimeo, Twitch, Facebook, and hundreds of other websites. Convert and export them to your preferred format with just a few clicks. Simple, fast, and no-fuss.",
   "start_url": "/",
   "display": "standalone"
 }
