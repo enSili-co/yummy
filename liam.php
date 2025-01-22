@@ -13,7 +13,7 @@ if (isset($_POST["validated"])) {
 
     // try {
 
-    //     $website = 'getyummy.app';
+    //     $website = 'ensili.co/app/yummy';
     //     $message = nl2br($_POST['message']);
         
     //     $mail->SMTPDebug = SMTP::DEBUG_SERVER;

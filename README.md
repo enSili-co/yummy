@@ -9,6 +9,14 @@
 
 ---
 
+# Download for free (3-day trial)
+
+▶︎ https://ensili.co/download/yummy/yummy-5.0.zip
+
+# Official Website
+
+▶︎ https://ensili.co/app/yummy
+
 # Issues
 
 For issues/comments/suggestions/feedback (everything is 100% welcome!),...    
