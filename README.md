@@ -9,14 +9,6 @@
 
 ---
 
-# Download for free (3-day trial)
-
-▶︎ 
-
-# Official Website
-
-▶︎ https://getyummy.app
-
 # Issues
 
 For issues/comments/suggestions/feedback (everything is 100% welcome!),...    
