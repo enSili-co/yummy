@@ -800,6 +800,11 @@ h2 {
   border: 1px solid red !important;
 }
 
+.disclaimer {
+  font-size: 0.8em;
+  color: #959094;
+}
+
 /**
  * Owl Carousel v2.2.1
  * Copyright 2013-2017 David Deutsch
