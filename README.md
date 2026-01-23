@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/yummy/yummy-5.4.6.zip
+▶︎ https://ensili.co/download/yummy/yummy-5.6.1.zip
 
 # Official Website
 
